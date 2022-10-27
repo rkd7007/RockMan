@@ -1,0 +1,25 @@
+﻿  BossAnimationSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  BossAttackSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  BossHpSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  dx9_d3dxsprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\dx9_d3dxsprite.cpp(16): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MyAnimationSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MyAttackSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MyGameEndSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MyMapSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MyMenuSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MyPlayerHpSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MyReadyStartSprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  MySprite.cpp
+d:\강아름\2020년 3학년 2학기\2020년 2학기 directx\기말과제\dx9_d3dxsprite_file\mysprite.h(4): fatal error C1083: 포함 파일을 열 수 없습니다. 'd3dx9.h': No such file or directory
+  코드를 생성하고 있습니다...

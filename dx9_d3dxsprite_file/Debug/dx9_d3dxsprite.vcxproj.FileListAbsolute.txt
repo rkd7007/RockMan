@@ -1,0 +1,4 @@
+C:\Users\areum\Desktop\dx9_d3dxsprite_file\Debug\dx9_d3dxsprite.exe
+C:\Users\areum\Desktop\dx9_d3dxsprite_file\Debug\dx9_d3dxsprite.pdb
+C:\Users\areum\Desktop\강아름\2020년 3학년 2학기\2020년 2학기 DirectX\기말과제\dx9_d3dxsprite_file\Debug\dx9_d3dxsprite.exe
+C:\Users\areum\Desktop\강아름\2020년 3학년 2학기\2020년 2학기 DirectX\기말과제\dx9_d3dxsprite_file\Debug\dx9_d3dxsprite.pdb
